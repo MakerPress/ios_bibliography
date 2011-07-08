@@ -4,9 +4,9 @@
 <?asciidoc-numbered?>
 
 <book lang="en">
-<title>iOS Pocket Bibliography</title>
+<title>iOS Bibliography</title>
 <bookinfo>
-    <title>iOS Pocket Bibliography</title>
+    <title>iOS Bibliography</title>
 <isbn>9781449311902</isbn>
   <edition>1</edition>
   <author>
@@ -26,311 +26,311 @@
 <title>Beginning iOS Development</title>
 <sect1 id="_head_first_iphone_development">
 <title>Head First iPhone Development</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Dan Pilone; Tracey Pilone</emphasis>
-<emphasis>ISBN: 9780596803544</emphasis>
-<emphasis>October 2009</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>560 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Dan Pilone; Tracey Pilone</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596803544</emphasis></simpara>
+<simpara><emphasis>October 2009</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>560 pages</emphasis></simpara>
 <simpara>This book will help you get your first application up and running in no time. You&#8217;ll quickly learn to use iPhone SDK tools, including Interface Builder and Xcode, and master Objective-C programming principles that will make your app stand out. It&#8217;s a complete learning experience for creating eye-catching, top-selling iPhone applications. We think your time is too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First iPhone Development provides a visually-rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780596809294?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_iphone_4_development_exploring_the_ios_sdk">
 <title>Beginning iPhone 4 Development: Exploring the iOS SDK</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Mark; Jack Nutting; Jeff LaMarche</emphasis>
-<emphasis>ISBN: 9781430230243</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>674 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Mark; Jack Nutting; Jeff LaMarche</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430230243</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>674 pages</emphasis></simpara>
 <simpara>The authors of the bestselling Beginning iPhone 3 Development are back, with the same excellent material completely updated for iOS 4 and written from the ground up using the latest version of Apple&#8217;s Xcode 3. You&#8217;ll master techniques that work on iPhone, iPad, and iPod touch. You&#8217;ll learn to draw using Quartz 2D and OpenGL ES, add multitouch gestural support (pinches and swipes) to your applications, and work with the camera, photo library, accelerometer, and built-in GPS. You&#8217;ll discover the fine points of application preferences and learn how to localize your apps for multiple languages. You&#8217;ll also learn how to use the new concurrency APIs included in iOS 4, and make robust multithreaded applications using Grand Central Dispatch.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430230243?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_programming_the_big_nerd_ranch_guide">
 <title>iPhone Programming: The Big Nerd Ranch Guide</title>
-<simpara><emphasis>Big Nerd Ranch Guides</emphasis>
-<emphasis>By Joe Conway; Aaron Hillegass</emphasis>
-<emphasis>ISBN: 9780321706485</emphasis>
-<emphasis>April 2010</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>480 pages</emphasis></simpara>
+<simpara><emphasis>Big Nerd Ranch Guides</emphasis></simpara>
+<simpara><emphasis>By Joe Conway; Aaron Hillegass</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321706485</emphasis></simpara>
+<simpara><emphasis>April 2010</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>480 pages</emphasis></simpara>
 <simpara>Based on Big Nerd Ranch’s popular iPhone Bootcamp class, this book leads you through the essential tools and techniques for developing applications for the iPhone, iPad, and iPod Touch. In each chapter, you will learn programming concepts and apply them immediately as you build an application or enhance one from a previous chapter. These applications have been carefully designed and tested to teach the associated concepts and to provide practice working with the standard development tools Xcode, Interface Builder, and Instruments. The guide’s learn-while-doing approach delivers the practical knowledge and experience you need to design and build real-world applications.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321706485?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_sams_teach_yourself_iphone_application_development_in_24_hours_second_edition">
 <title>Sams Teach Yourself iPhone Application Development in 24 Hours, Second Edition</title>
-<simpara><emphasis>Que</emphasis>
-<emphasis>By John Ray</emphasis>
-<emphasis>ISBN: 9780672330841</emphasis>
-<emphasis>October 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>696 pages</emphasis></simpara>
+<simpara><emphasis>Que</emphasis></simpara>
+<simpara><emphasis>By John Ray</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780672330841</emphasis></simpara>
+<simpara><emphasis>October 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>696 pages</emphasis></simpara>
 <simpara>In just 24 sessions of one hour or less, learn how to build powerful applications for today’s hottest mobile device: the iPhone! Using this book’s straightforward, step-by-step approach, you’ll master every skill and technology you need, from setting up your iPhone development environment to building great user interfaces, sensing motion to writing multitasking applications. Each lesson builds on what you’ve already learned, giving you a rock-solid foundation for real-world success and the book is printed in full color—figures and code appear as they do in Xcode!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780672330841?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_iphone_programming">
 <title>Learning iPhone Programming</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9780596806439</emphasis>
-<emphasis>March 2010</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>384 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596806439</emphasis></simpara>
+<simpara><emphasis>March 2010</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>384 pages</emphasis></simpara>
 <simpara>Get the hands-on experience you need to program for the iPhone and iPod touch. With this easy-to-follow guide, you&#8217;ll learn how to use Xcode tools, the Objective-C programming language, and the core frameworks by writing a number of sample apps. Before you know it, you&#8217;ll not only have the skills to develop your own apps, you&#8217;ll also be ready to handle the complex details of preparing and submitting apps to Apple&#8217;s App Store. This book helps you through the genuinely tricky process involved in developing apps for Apple&#8217;s popular devices. Whether you&#8217;re a developer new to Mac programming, or an experienced Mac developer ready to tackle the iPhone and iPod Touch, this book will take you from Xcode to the App Store.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449380052?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_app_development_the_missing_manual">
 <title>iPhone App Development: The Missing Manual</title>
-<simpara><emphasis>O&#8217;Reilly Media: Pogue Press</emphasis>
-<emphasis>By Craig Hockenberry</emphasis>
-<emphasis>ISBN: 9780596809997</emphasis>
-<emphasis>May 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>352 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media: Pogue Press</emphasis></simpara>
+<simpara><emphasis>By Craig Hockenberry</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596809997</emphasis></simpara>
+<simpara><emphasis>May 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>352 pages</emphasis></simpara>
 <simpara>Ready to create your own iPhone app? This book walks you through the entire iPhone app development process. You&#8217;ll learn how to download the tools, build the app, successfully navigate Apple&#8217;s approval process, and then market and maintain the finished product. Written by Mac guru Craig Hockenberry, creator of the wildly popular Twitterific iPhone app, this book includes illustrated, step-by-step tutorials and real-world examples.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780596809997?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_iphone_developer_s_cookbook_building_applications_with_the_iphone_3_0_sdk_second_edition">
 <title>The iPhone™ Developer’s Cookbook: Building Applications with the iPhone 3.0 SDK, Second Edition</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By  Erica Sadun</emphasis>
-<emphasis>ISBN: 9780321670168</emphasis>
-<emphasis>December 2009</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>888 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By  Erica Sadun</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321670168</emphasis></simpara>
+<simpara><emphasis>December 2009</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>888 pages</emphasis></simpara>
 <simpara>Completely revised and expanded to cover the iPhone 3.0 SDK, this book is the essential resource for developers building apps for the iPhone and iPod touch. Taking you further than before, this new edition starts out with an introduction to Objective-C 2.0 for developers who might be new to the platform. You’ll learn about Xcode and Interface Builder and learn how to set up and configure your iPhone Developer account. The unique format of this book presents the code you need to create feature-rich applications that leverage the latest features of the iPhone 3.0 SDK. Over 30,000 iPhone developers turned to the first edition, and so should you!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321670168?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_professional_flash_mobile_development_creating_android_and_iphone_applications">
 <title>Professional Flash Mobile Development: Creating Android and iPhone Applications</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By  Richard Wagner</emphasis>
-<emphasis>ISBN: 9780470620076</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>336 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By  Richard Wagner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470620076</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>336 pages</emphasis></simpara>
 <simpara>This Wrox guide shows Flash developers how to create native applications for Android and iPhone mobile devices using Flash. Packed with practical examples, it shows how to build a variety of apps and integrate them with core mobile services such as Accelerometer, GPS, Photo Library,and more. This book Shows how to design a user interface optimized for Android and iOS and offers plenty of examples for building native Android and iPhone apps with Flash, migrating existing Flash media, testing and debugging applications, and more.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470620076?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_iphone_3_development_exploring_the_iphone_sdk">
 <title>Beginning iPhone 3 Development: Exploring the iPhone SDK</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Mark; Jeff LaMarche</emphasis>
-<emphasis>ISBN: 9781430224594</emphasis>
-<emphasis>July 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>584 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Mark; Jeff LaMarche</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430224594</emphasis></simpara>
+<simpara><emphasis>July 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>584 pages</emphasis></simpara>
 <simpara>Updated and revised for iPhone SDK 3, many of the discussions in the original book have been clarified to make some of the more complex topics easier to understand. In addition, all of the projects have been rebuilt from scratch using the SDK 3 templates. Assuming only a minimal working knowledge of Objective-C and written in a friendly, easy-to-follow style, this book offers a complete soup-to-nuts course in iPhone and iPod touch programming.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430224594?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_sams_teach_yourself_iphone_application_development_in_24_hours">
 <title>Sams Teach Yourself iPhone™ Application Development in 24 Hours</title>
-<simpara><emphasis>Sams</emphasis>
-<emphasis>By John Ray; Sean Johnson</emphasis>
-<emphasis>ISBN: 9780768695656</emphasis>
-<emphasis>October 2009</emphasis>
-<emphasis>696 pages</emphasis></simpara>
+<simpara><emphasis>Sams</emphasis></simpara>
+<simpara><emphasis>By John Ray; Sean Johnson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780768695656</emphasis></simpara>
+<simpara><emphasis>October 2009</emphasis></simpara>
+<simpara><emphasis>696 pages</emphasis></simpara>
 <simpara>In just 24 lessons of one hour or less, this book will help beginning iPhone and mobile developers gain true mastery, so you can construct virtually any iPhone application. Coverage includes: preparing for iPhone development; navigating the development environment; mastering Objective-C and the MVC paradigm; using widgets and webviews; implementing multiple views; reading and writing data; building user interfaces; generating graphics; playing media; using maps; networking; using the touch interface; sensing motion; pushing application updates; debugging; optimization; distributing software via the App Store; and more. By the time you are finished you&#8217;ll be comfortable enough to write real-world apps that sell.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780768695656?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_deitel_developer_series_iphone_for_programmers_an_app_driven_approach">
 <title>Deitel Developer Series iPhone for Programmers: An App-Driven Approach</title>
-<simpara><emphasis>Prentice Hall</emphasis>
-<emphasis>By Paul Deitel, Harvey Deitel, Abbey Deitel, Eric Kern, &amp; Michael Morgano</emphasis>
-<emphasis>ISBN: 9780137058556</emphasis>
-<emphasis>October 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>456 pages</emphasis></simpara>
+<simpara><emphasis>Prentice Hall</emphasis></simpara>
+<simpara><emphasis>By Paul Deitel, Harvey Deitel, Abbey Deitel, Eric Kern, &amp; Michael Morgano</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780137058556</emphasis></simpara>
+<simpara><emphasis>October 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>456 pages</emphasis></simpara>
 <simpara>More than 1.5 billion iPhone apps were downloaded from Apple’s App Store in just one year! This book gives you everything you’ll need to start developing great iPhone apps quickly and–once you’ve joined Apple’s fee-based iPhone Developer Program–to get them up and running on the App Store. The book uses an app-driven approach–each new technology is discussed in the context of 14 fully tested iPhone apps (7700 lines of code), complete with syntax shading, code walkthroughs and sample outputs.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780137058556?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_application_development_for_ios_4_visual_quickstart_guide">
 <title>iPhone Application Development for iOS 4: Visual QuickStart Guide</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By  Duncan Campbell</emphasis>
-<emphasis>ISBN: 9780131389717</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>504 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By  Duncan Campbell</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780131389717</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>504 pages</emphasis></simpara>
 <simpara>With a rich set of over 1,000 APIs, iPhone SDK 4 provides an amazing range of technologies to enhance and create applications for the iPhone. This book focuses on the parts of the SDK that are specifically geared toward the iPhone. Everything is covered to create a complete application. This book is designed in an attractive tutorial and reference format, guiding you with a friendly and supportive approach. The visual presentation (with copious screenshots) and focused discussions by topic and tasks make learning a breeze and take you to exactly what you want to learn.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780131389717?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_professional_iphone_programming_with_monotouch_and_net_c">
 <title>Professional iPhone Programming with MonoTouch and .NET/C#</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Wallace B. McClure, Martin Bowling, Craig Dunn, Chris Hardy, &amp; Rory Blyth</emphasis>
-<emphasis>ISBN: 9780470637821</emphasis>
-<emphasis>July 2010</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>383 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Wallace B. McClure, Martin Bowling, Craig Dunn, Chris Hardy, &amp; Rory Blyth</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470637821</emphasis></simpara>
+<simpara><emphasis>July 2010</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>383 pages</emphasis></simpara>
 <simpara>This book is what .NET C# developers need to enter the hot field of iPhone applications. Until the open source MonoTouch project, this field was limited to those familiar with Apple&#8217;s programming languages. Now .NET and C# developers can join the party. Professional iPhone Programming with MonoTouch and .NET/C#is the first book to cover MonoTouch, preparing developers to take advantage of this lucrative opportunity. This book is designed to help you get up to speed with the iPhone, not to really teach you about the .NET Framework or C# language, which we assume you already know.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470637821?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_application_development_all_in_one_for_dummies">
 <title>iPhone Application Development All-In-One For Dummies</title>
-<simpara><emphasis>For Dummies</emphasis>
-<emphasis>By Neal Goldstein &amp; Tony Bove</emphasis>
-<emphasis>ISBN: 9780470542934</emphasis>
-<emphasis>February 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>882 pages</emphasis></simpara>
+<simpara><emphasis>For Dummies</emphasis></simpara>
+<simpara><emphasis>By Neal Goldstein &amp; Tony Bove</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470542934</emphasis></simpara>
+<simpara><emphasis>February 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>882 pages</emphasis></simpara>
 <simpara>Whether you&#8217;re a beginning programmer who wants to build an application for your iPhone or you&#8217;re a professional developer looking to leverage the marketing power of the open iPhone SDK, this helpful guide has your needs covered. iPhone enthusiast and developer Neal Goldstein shows you the ins and outs of developing applications for the iPhone and iPod Touch and explains how to get your apps into the AppStore and market and sell them. You&#8217;ll learn the basics of getting started, download the SDK, context-based design, and fill your toolbox. Clear, easy-to-understand steps walk you through programming with Objective C or Cocoa and show you how to develop games and graphics. Plus, you&#8217;ll discover how to design specifically for mobile apps.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470542934?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_application_development_for_dummies_2nd_edition">
 <title>iPhone Application Development For Dummies, 2nd Edition</title>
-<simpara><emphasis>For Dummies</emphasis>
-<emphasis>By Neal Goldstein</emphasis>
-<emphasis>ISBN: 9780470568439</emphasis>
-<emphasis>November 2009</emphasis>
-<emphasis>432 pages</emphasis></simpara>
+<simpara><emphasis>For Dummies</emphasis></simpara>
+<simpara><emphasis>By Neal Goldstein</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470568439</emphasis></simpara>
+<simpara><emphasis>November 2009</emphasis></simpara>
+<simpara><emphasis>432 pages</emphasis></simpara>
 <simpara>This book will help you create iPhone and iPad applications. Make the most of the new 3.1 OS and Apple&#8217;s Xcode 3.2! Neal Goldstein shows you how to do this, and even illustrates the process with one of his own apps that&#8217;s currently being sold. Even if you&#8217;re not a programming pro, you can turn your bright idea into an app you can market, and Neal even shows you how to get it into the App Store!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470568439?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_app_development_fundamentals_livelessons_video">
 <title>iPhone App Development Fundamentals LiveLessons (Video)</title>
-<simpara><emphasis>Prentice Hall</emphasis>
-<emphasis>By Paul J. Deitel</emphasis>
-<emphasis>ISBN: 9780132122184</emphasis>
-<emphasis>March 2010</emphasis></simpara>
+<simpara><emphasis>Prentice Hall</emphasis></simpara>
+<simpara><emphasis>By Paul J. Deitel</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132122184</emphasis></simpara>
+<simpara><emphasis>March 2010</emphasis></simpara>
 <simpara>This LiveLesson video training course gives you everything you’ll need to start developing great iPhone apps quickly and to get them up and running on the App Store. The LiveLesson uses an app-driven approach–each new technology is discussed in the context of 14 fully tested iPhone apps (7700 lines of code), complete with syntax shading, code walkthroughs and sample outputs. By Lesson 3 you’ll be building apps using Xcode®, Cocoa® and Interface Builder. You’ll learn object-oriented programming in Objective-C and build apps using the latest iPhone 3.x technologies including the Game Kit, iPod library access and more.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132122184?cid=1107-bibilio-ios-link">See it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_iphone_development_exploring_the_iphone_sdk">
 <title>Beginning iPhone Development Exploring the iPhone SDK</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Mark &amp; Jeff LaMarche</emphasis>
-<emphasis>ISBN: 9781430216261</emphasis>
-<emphasis>November 2008</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>536 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Mark &amp; Jeff LaMarche</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430216261</emphasis></simpara>
+<simpara><emphasis>November 2008</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>536 pages</emphasis></simpara>
 <simpara>Assuming only a minimal working knowledge of Objective-C, and written in a friendly, easy-to-follow style, this book offers a complete soup-to-nuts course in iPhone and iPod Touch programming. You&#8217;ll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs. You&#8217;ll learn how to draw using Quartz 2D and OpenGL ES. You&#8217;ll even add MultiTouch Gestural Support (pinches and swipes) to your applications, and work with the Camera, Photo Library, and Accelerometer. Apple&#8217;s iPhone SDK, this book, and your imagination are all you&#8217;ll need to start building your very own best-selling iPhone applications.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430216261?cid=1107-bibilio-ios-link">Read in on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_iphone_sdk_programming_with_objective_c">
 <title>Beginning iPhone SDK Programming with Objective-C</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Wei-Meng Lee</emphasis>
-<emphasis>ISBN: 9780470500972</emphasis>
-<emphasis>January 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>542 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Wei-Meng Lee</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470500972</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>542 pages</emphasis></simpara>
 <simpara>This information-packed book presents a complete introduction to the iPhone SDK and the Xcode tools, as well as the Objective-C language that is necessary to create native applications. The hands-on approach shows you how to develop your first iPhone application while getting you acquainted with the iPhone SDK and the array of Xcode tools. A thorough tutorial on the features and syntax of the Objective-C language helps you get the most out of the iPhone SDK, and an in-depth look at the features of the iPhone SDK enables you to maximize each of these features in your applications. With this hands-on guide, you&#8217;ll quickly get started developing applications for the iPhone with both the iPhone SDK and the latest Xcode tools.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470500972?cid=1107-bibilio-ios-link">Read in on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_sdk_3_visual_quickstart_guide">
 <title>iPhone SDK 3: Visual QuickStart Guide</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Duncan Campbell</emphasis>
-<emphasis>ISBN: 9780321678553</emphasis>
-<emphasis>September 2009</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>336 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Duncan Campbell</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321678553</emphasis></simpara>
+<simpara><emphasis>September 2009</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>336 pages</emphasis></simpara>
 <simpara>With a rich set of over 1,000 new APIs, iPhone SDK for iPhone OS 3 provides an amazing range of technologies to enhance the functionality of iPhone and iPod touch applications. This book takes an introductory look at Objective-C and Cocoa before moving on to the tools you&#8217;ll use to create iPhone applications. Starting with common and tasks and UI elements, the book covers using tabs and tables, files and networking, the multi-touch display, and the built-in GPS hardware. This book will appeal to both current developers needing to understand and update their apps to the iPhone OS 3.0 and for those developers just starting out who need a complete tutorial and reference to the iPhone SDK 3.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321678553?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_professional_iphone_and_ipad_application_development">
 <title>Professional iPhone and iPad Application Development</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Gene Backlin</emphasis>
-<emphasis>ISBN: 9780470878194</emphasis>
-<emphasis>November 2010</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>600 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Gene Backlin</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470878194</emphasis></simpara>
+<simpara><emphasis>November 2010</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>600 pages</emphasis></simpara>
 <simpara>Developers have demanded an advanced guide to using the very latest version of the iPhone and iPad SDK to develop applications-and this book answers that call! Packed with over twenty complete standalone applications that are designed to be recreated, rebuilt, and reused by the professional developer, this resource delves into the increasingly popular world of application development and presents step-by-step guidance for creating superior apps for the iPhone and iPad. You&#8217;ll explore the many developer tools and learn how to use them and you&#8217;ll also discover how to apply the techniques learned, to real world situations. With coverage of the latest version of the iPhone and iPad SDK and the quantity of standalone applications, this book will serve as a tremendous go-to reference in the future.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470878194?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_complete_idiot_8217_s_guide_to_ipad_and_iphone_app_development">
 <title>The Complete Idiot&#8217;s Guide To iPad and iPhone App Development</title>
-<simpara><emphasis>Alpha Books</emphasis>
-<emphasis>By Troy Brant</emphasis>
-<emphasis>ISBN: 9781615640102</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$21.95</emphasis>
-<emphasis>384 pages</emphasis></simpara>
+<simpara><emphasis>Alpha Books</emphasis></simpara>
+<simpara><emphasis>By Troy Brant</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781615640102</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$21.95</emphasis></simpara>
+<simpara><emphasis>384 pages</emphasis></simpara>
 <simpara>This book is the perfect introduction for aspiring iPhone app creators, offering a step-by-step approach exploring all of the tools and key aspects of programming using the iPhone software development kit, including getting the finished product distributed through the App Store.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781615640102?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_ios_5_programming">
 <title>Learning iOS 5 Programming</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449303778</emphasis>
-<emphasis>December 2011</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>384 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449303778</emphasis></simpara>
+<simpara><emphasis>December 2011</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>384 pages</emphasis></simpara>
 <simpara>This easy-to-follow book guides you through the development of your first iPhone, iPad, or iPod touch app. You learn the entire development process, from opening Xcode for the first time to submitting an application to the App Store. Ideal for beginning programmers, each chapter in Learning iOS 4 Programming is a self-contained lesson that helps you master the topic, with plenty of annotated examples, illustrations, and a concise summary.</simpara>
 </sect1>
 <sect1 id="_quick_amp_easy_iphone_programming">
 <title>Quick &amp; Easy iPhone Programming</title>
-<simpara><emphasis>Manning Publications</emphasis>
-<emphasis>By Bintu Harwani</emphasis>
-<emphasis>ISBN: 9781935182931</emphasis>
-<emphasis>November 2011</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>325 pages</emphasis></simpara>
+<simpara><emphasis>Manning Publications</emphasis></simpara>
+<simpara><emphasis>By Bintu Harwani</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781935182931</emphasis></simpara>
+<simpara><emphasis>November 2011</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>325 pages</emphasis></simpara>
 <simpara>Even if you&#8217;ve never written a program for a mobile device, you can learn to build iPhone apps quickly and easily! Quick &amp; Easy iPhone Programming is a no-nonsense book for beginners who want to get started with iPhone programming without getting lost in the inner workings of the iPhone SDK or the Objective-C language. Your skills and confidence will increase as you move from your first "Hello World" app to programs that include the fun and friendly features that iPhone users love.</simpara>
 </sect1>
 <sect1 id="_ios_programming_the_big_nerd_ranch_guide_second_edition">
 <title>iOS Programming: The Big Nerd Ranch Guide, Second Edition</title>
-<simpara><emphasis>BNR</emphasis>
-<emphasis>By Joe Conway, Aaron Hillegass</emphasis>
-<emphasis>ISBN: 9780321773777</emphasis>
-<emphasis>June 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>432 pages</emphasis></simpara>
+<simpara><emphasis>BNR</emphasis></simpara>
+<simpara><emphasis>By Joe Conway, Aaron Hillegass</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321773777</emphasis></simpara>
+<simpara><emphasis>June 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>432 pages</emphasis></simpara>
 <simpara>In this book, the world&#8217;s leading Apple platform development trainers offer a complete, practical, hands-on introduction to iPhone and iPad programming. The authors walk through all the Apple tools and technologies needed to build successful iPhone/iPad/iPod touch Apps, including the iOS4.3 SDK, the Objective-C language, Xcode 4 tools, Foundation framework, and the classes that make up the iPhone UI framework.</simpara>
 </sect1>
 <sect1 id="_the_ios_developer_s_cookbook_3_e">
 <title>The iOS Developer’s Cookbook, 3/e</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Erica Sadun</emphasis>
-<emphasis>ISBN: 9780321754257</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>544 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Erica Sadun</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321754257</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>544 pages</emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_ipad_development_for_iphone_developers_mastering_the_ipad_sdk">
 <title>Beginning iPad Development for iPhone Developers: Mastering the iPad SDK</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Jack Nutting, Dave Wooldridge &amp; David Mark</emphasis>
-<emphasis>ISBN: 9781430230212</emphasis>
-<emphasis>July 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>272 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Jack Nutting, Dave Wooldridge &amp; David Mark</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430230212</emphasis></simpara>
+<simpara><emphasis>July 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>272 pages</emphasis></simpara>
 <simpara>This book, written by best selling authors, provides the easy-to-follow style and thorough coverage for developing great iPhone and iPad apps. Apple&#8217;s new iPad SDKs are explained, demonstrated in action, and put through their paces with good-humored clarity that, as Steve Jobs has said of the iPad itself, "just works." Every iPhone and iPod touch app developer looking to take the next step and move into the iPad arena will want to read this book from cover to cover. You&#8217;ll get a detailed understanding of the new feature set and gain every possible advantage in the iTunes App Store. And it&#8217;s time for all you Mac OS X programmers to join in as well to take advantage of a whole new class of touch-based productivity apps just waiting to be developed.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430230212?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_and_ipad_apps_for_absolute_beginners">
 <title>iPhone and iPad Apps for Absolute Beginners</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Rory Lewis</emphasis>
-<emphasis>ISBN: 9781430227007</emphasis>
-<emphasis>June 2010</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>336 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Rory Lewis</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430227007</emphasis></simpara>
+<simpara><emphasis>June 2010</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>336 pages</emphasis></simpara>
 <simpara>Anybody can start building simple applications for the iPhone and iPad, and this book will show you how. This book takes you to getting your first applications up and running using plain English and practical examples. It cuts through the fog of jargon and misinformation that surrounds iPhone and iPad application development, and gives you simple, step-by-step instructions to get you started. The author even offers videos for you to following along with as you learn.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430227007?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_from_idea_to_app_creating_ios_ui_animations_and_gestures">
 <title>From Idea to App: Creating iOS UI, animations, and gestures</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Shawn Welch</emphasis>
-<emphasis>ISBN: 9780132575355</emphasis>
-<emphasis>March 2011</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>264 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Shawn Welch</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132575355</emphasis></simpara>
+<simpara><emphasis>March 2011</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>264 pages</emphasis></simpara>
 <simpara>Because iPhone development is so young, right now apps are typically designed, developed and deployed by a single person (or very small development team.) The designers are the developers and vice versa. This book will leverage this distinction by teaching designers how to design on top of native iOS metaphors, tools and UI, while teaching native developers appropriate application design and asset preparation.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132575355?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_sams_teach_yourself_iphone_application_development_in_24_hours_third_edition">
 <title>Sams Teach Yourself iPhone Application Development in 24 Hours, Third Edition</title>
-<simpara><emphasis>Que</emphasis>
-<emphasis>By John Ray</emphasis>
-<emphasis>ISBN: 9780672335761</emphasis>
-<emphasis>October 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>704 pages</emphasis></simpara>
+<simpara><emphasis>Que</emphasis></simpara>
+<simpara><emphasis>By John Ray</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780672335761</emphasis></simpara>
+<simpara><emphasis>October 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>704 pages</emphasis></simpara>
 <simpara>This book is an accessible guide to iPhone development for every programmer, regardless of experience, completely updated for the new version 4 of the iPhone SDK. In just 24 lessons of one hour or less this book will help beginning iPhone and mobile developers gain true mastery, so they can construct virtually any iPhone application. Each lesson builds on everything that&#8217;s come before, helping you learn all you need to know without ever becoming overwhelmed. By the time you are finished you&#8217;ll be comfortable enough to write real-world apps that sell.</simpara>
 </sect1>
 </chapter>
@@ -338,178 +338,178 @@
 <title>Intermediate iOS Development</title>
 <sect1 id="_pro_core_data_for_ios_data_access_and_persistence_engine_for_iphone_ipad_and_ipod_touch">
 <title>Pro Core Data for iOS: Data Access and Persistence Engine for iPhone, iPad, and iPod touch</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Michael Privat &amp; Rob Warner</emphasis>
-<emphasis>ISBN: 9781430233558</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>394 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Michael Privat &amp; Rob Warner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430233558</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>394 pages</emphasis></simpara>
 <simpara>Based on the relatively new Cocoa touch set of APIs and libraries, the Core Data framework is now available and accessible for app development and use on iPhone, iPad, and iPod touch devices. This book explains how to use the Core Data framework for iOS, from simple to advanced techniques. Covering common and advanced persistence patterns, this book prepares any iOS developer to store and retrieve data accurately and efficiently for their iOS applications.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430233558?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_professional_iphone_and_ipad_database_application_programming">
 <title>Professional iPhone and iPad Database Application Programming</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Patrick Alessi</emphasis>
-<emphasis>ISBN: 9780470636176</emphasis>
-<emphasis>October 2010</emphasis>
-<emphasis>$44.99 pages</emphasis>
-<emphasis>401 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Patrick Alessi</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470636176</emphasis></simpara>
+<simpara><emphasis>October 2010</emphasis></simpara>
+<simpara><emphasis>$44.99 pages</emphasis></simpara>
+<simpara><emphasis>401 pages</emphasis></simpara>
 <simpara>An enormous demand exists for getting iPhone applications into the enterprise and this book guides you through all the necessary steps for integrating an iPhone app within an existing enterprise. Experienced iPhone developers will learn how to take advantage of the built-in capabilities of the iPhone to confidently implement a data-driven application for the iPhone. This book gets you up to speed on developing data-driven applications for the iPhone.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470636176?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_cool_projects">
 <title>iPhone Cool Projects</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Wolfgang Ante, Gary Bennett, Benjamin Jackson, Neil Mix, Steven Peterson, Matthew Rosenfeld &amp; Michael Ash</emphasis>
-<emphasis>ISBN: 9781430223573</emphasis>
-<emphasis>August 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>240 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Wolfgang Ante, Gary Bennett, Benjamin Jackson, Neil Mix, Steven Peterson, Matthew Rosenfeld &amp; Michael Ash</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430223573</emphasis></simpara>
+<simpara><emphasis>August 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>240 pages</emphasis></simpara>
 <simpara>This book is written by authors who have created successful iPhone applications. Follow along and learn about multitouch controls, spatial app interaction, geo-location, cocos2d, 2d gaming, Core Location, streaming audio and how to optimize your use of limited screen real estate. Software development can be hard work. Introductory books lay the foundation, but it can be challenging to understand where to go next. This book shows some of the pieces that can be brought together to make complete, cool applications for all iPhone application developers with any level of experience or coming from any development platform.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430223573?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_programming_ios_4">
 <title>Programming iOS 4</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Matt Neuberg</emphasis>
-<emphasis>ISBN: 9781449388430</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>834 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Matt Neuberg</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449388430</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>834 pages</emphasis></simpara>
 <simpara>Whether you&#8217;re learning Cocoa programming for the first time, or want a reference to bolster the iPhone development skills you already have, this in-depth guide provides a complete learning path&#8201;&#8212;&#8201;from language basics and using Xcode and Interface Builder to all of the steps necessary for developing your app with the Cocoa framework. You&#8217;ll learn everything you need to take an iPhone, iPad, or iPod touch app from initial concept to the App Store.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449397302?cid=1107=bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_ios_5_sensor_programming_rough_cuts_version_augmented_reality_and_location_enabled_iphone_and_ipad_apps">
 <title>iOS 5 Sensor Programming Rough Cuts Version: Augmented Reality and Location Enabled iPhone and iPad Apps</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449382650</emphasis>
-<emphasis>December 2011</emphasis>
-<emphasis>$39.99</emphasis>
-<emphasis>320 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449382650</emphasis></simpara>
+<simpara><emphasis>December 2011</emphasis></simpara>
+<simpara><emphasis>$39.99</emphasis></simpara>
+<simpara><emphasis>320 pages</emphasis></simpara>
 <simpara>Use iPhone&#8217;s onboard sensors to build cutting-edge location-based and augmented reality apps. With this book, you&#8217;ll learn how to combine input from the three-axis accelerometer, GPS, digital compass, and camera with outside data sets to create apps that interact with the physical world. It&#8217;s ideal for experienced iPhone programmers, game programmers, augmented reality programmers, and geo hackers. This book is still in progress, but you can get going on this technology through our Rough Cuts edition, which lets you read the manuscript as it&#8217;s being written, either online or via PDF.</simpara>
 </sect1>
 <sect1 id="_basic_sensors_in_ios">
 <title>Basic Sensors in iOS</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449308469</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$19.99 US</emphasis>
-<emphasis>50 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449308469</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$19.99 US</emphasis></simpara>
+<simpara><emphasis>50 pages</emphasis></simpara>
 <simpara>Modern mobile platforms, such as Apple’s iPhone and iPad, come with a growing range of sensors; GPS, accelerometers, magnetometers and gyroscopes. This book guides you through how to make use of these sensors, giving you the necessary tools and experience to develop applications that makes best use of the hardware.</simpara>
 </sect1>
 <sect1 id="_core_audio">
 <title>Core Audio</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Kevin Avila &amp; Chris Adamson</emphasis>
-<emphasis>ISBN: 9780321636843</emphasis>
-<emphasis>September 2011</emphasis>
-<emphasis>$44.99</emphasis>
-<emphasis>300 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Kevin Avila &amp; Chris Adamson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321636843</emphasis></simpara>
+<simpara><emphasis>September 2011</emphasis></simpara>
+<simpara><emphasis>$44.99</emphasis></simpara>
+<simpara><emphasis>300 pages</emphasis></simpara>
 <simpara>This book will teach you all you need to know about Core Audio. Core Audio lets you write applications that work directly with the uncompressed audio data captured from a microphone, perform effects on it, mix it with other audio, and play the result out to the speakers and/or convert it into a compressed format that you can then write to the file system or send over the network. Or, if you’re not developing full applications, Core Audio lets you write just the custom effect and wrap it in a plug-in called an audio unit, which lets users add your effect to their Core Audio-based applications. By the time you get to the end of this book, you’ll have an appreciation for just how much Core Audio does for you. This book assumes a working knowledge of C, including pointers, malloc(), and the usual hazards of low-level memory management. The book also assumes that you&#8217;re familiar and comfortable with Xcode and programming in Objective-C.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321636843?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_quartz_composer_a_hands_on_guide_to_creating_motion_graphics_with_quartz_composer">
 <title>Learning Quartz Composer: A Hands-on Guide to Creating Motion Graphics with Quartz Composer</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Graham Robinson, Surya Buchwald</emphasis>
-<emphasis>ISBN: 9780321636942</emphasis>
-<emphasis>October 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>250 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Graham Robinson, Surya Buchwald</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321636942</emphasis></simpara>
+<simpara><emphasis>October 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>250 pages</emphasis></simpara>
 </sect1>
 <sect1 id="_learning_cocos2d_a_hands_on_guide_to_building_ios_games_with_cocos2d_box2d_and_chipmunk">
 <title>Learning Cocos2D: A Hands-On Guide to Building iOS Games with Cocos2D, Box2D, and Chipmunk</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Rod Strougo &amp; Ray Wenderlich</emphasis>
-<emphasis>ISBN: 9780321735621</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>640 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Rod Strougo &amp; Ray Wenderlich</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321735621</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>640 pages</emphasis></simpara>
 <simpara>Follow along in this book to learn how to build the next great iOS game with Cocos2D. Cocos2D is the powerhouse framework behind some of the most popular games in the App Store. If you’ve played Tiny Wings, Angry Birds, Mega Jump, Trainyard, or even Super Turbo Action Pig, then you’ve played a game that uses Cocos2D or Box2D physics. The beauty of Cocos2D is its simplicity, and how it makes game development fun and easy. This book walks you through the process of building Space Viking (which is free on the App Store), a 2D scrolling game that leverages Cocos2D, Box2D, and Chipmunk. As you build Space Viking, you’ll learn everything you need to know about Cocos2D so you can create the next killer iOS game.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321735621?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_programming_ios_sensors">
 <title>Programming iOS Sensors</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Eric Busch</emphasis>
-<emphasis>ISBN: 9780321775047</emphasis>
-<emphasis>August 2011</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>300 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Eric Busch</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321775047</emphasis></simpara>
+<simpara><emphasis>August 2011</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>300 pages</emphasis></simpara>
 </sect1>
 <sect1 id="_learning_monotouch_a_hands_on_guide_to_building_ios_applications_with_c_and_net">
 <title>Learning MonoTouch: A Hands-On Guide to Building iOS Applications with C# and .NET</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Michael Bluestein</emphasis>
-<emphasis>ISBN: 9780321719928</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>448 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Michael Bluestein</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321719928</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>448 pages</emphasis></simpara>
 <simpara>Many .NET developers and many enterprises would like to target iOS devices, yet the learning curve and cost of moving to Objective-C precludes the practicality of this in many cases. MonoTouch brings the best of CocoaTouch and .NET under a single, extensible technology, providing the only way to develop iOS applications using .NET that can be published to the iOS App Store. This book assumes the reader is familiar with C# and .NET at least on an intermediate level and focuses on making use of existing skills, while presenting iOS-specific information in detail. After the basics are covered, the book quickly moves into more complex examples that address common use cases encountered in iOS development.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321719928?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_in_practice">
 <title>iPhone in Practice</title>
-<simpara><emphasis>Manning</emphasis>
-<emphasis>By Bear P. Cahill</emphasis>
-<emphasis>ISBN: 9781935182658</emphasis>
-<emphasis>November 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>325 pages</emphasis></simpara>
+<simpara><emphasis>Manning</emphasis></simpara>
+<simpara><emphasis>By Bear P. Cahill</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781935182658</emphasis></simpara>
+<simpara><emphasis>November 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>325 pages</emphasis></simpara>
 <simpara>Forums, blogs and even the Apple Develop site are full of hard questions and murky answers. Navigating the iOS Dev Center, iOS Provisioning Portal, and iTunes Connect can be equally frustrating. When you&#8217;re building an app, you don&#8217;t want vague ideas and untested theory-you want real answers to real problems. You want iPhone in Practice.</simpara>
 <simpara>iPhone in Practice is a book written from the hard-won experience of expert mobile app developer Bear Cahill. In this unique hands-on guide, you&#8217;ll explore seven real, working iPhone and iPad apps and uncover nearly 100 specific techniques to solve the specific problems you&#8217;ll encounter over and over. You&#8217;ll dig into the practical nuts and bolts of applying views, view controllers, table views and cells, audio, graphics, images, file structure, and so on-the foundations of almost all your apps. You&#8217;ll also crack some of the more difficult issues that will set you apart from the pack.</simpara>
 </sect1>
 <sect1 id="_ios4_in_action">
 <title>iOS4 in Action</title>
-<simpara><emphasis>Manning</emphasis>
-<emphasis>By Jocelyn Harrington, Brandon Trebitowski, Christopher Allen, and Shannon Appelcline</emphasis>
-<emphasis>ISBN: 9781617290015</emphasis>
-<emphasis>June 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>504 pages</emphasis></simpara>
+<simpara><emphasis>Manning</emphasis></simpara>
+<simpara><emphasis>By Jocelyn Harrington, Brandon Trebitowski, Christopher Allen, and Shannon Appelcline</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781617290015</emphasis></simpara>
+<simpara><emphasis>June 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>504 pages</emphasis></simpara>
 <simpara>iOS 4 in Action, written for Xcode 4 and using the iOS SDK 4.3, is a detailed, hands-on guide that goes from setting up your development environment, through your first coding steps, all the way to creating a polished, commercial iOS 4 application. You&#8217;ll run through examples from a variety of areas including a chat client, a video game, an interactive map, and background audio. You&#8217;ll also learn how the new iOS 4 features apply to your existing iOS 3 based apps. This book will help you become a confident, well-rounded iOS 4 developer.</simpara>
 </sect1>
 <sect1 id="_more_iphone_3_development_tackling_iphone_sdk_3">
 <title>More iPhone 3 Development: Tackling iPhone SDK 3</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Mark; Jeff LaMarche</emphasis>
-<emphasis>ISBN: 9781430225058</emphasis>
-<emphasis>January 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>552 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Mark; Jeff LaMarche</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430225058</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>552 pages</emphasis></simpara>
 <simpara>This book digs deeper into Apple’s latest SDK. Best-selling authors Dave Mark and Jeff LaMarche explain concepts as only they can, covering topics like Core Data, peer-to-peer networking using GameKit and network streams, working with data from the web, MapKit, in-application e-mail, and more. All the concepts and APIs are clearly presented with code snippets you can customize and use, as you like, in your own apps. Jeff and Dave carefully step through each of the Core Data concepts and show you techniques and tips specifically for writing larger applications—offering a breadth of coverage you won&#8217;t find anywhere else. This book covers a variety of networking mechanisms, from GameKit’s relatively simple BlueTooth peer-to-peer model, to the addition of Bonjour discovery and network streams, through the complexity of accessing files via the web. Whether you are a relative newcomer to iPhone development or an old hand looking to expand your horizons, there’s something for everyone in this book.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430225058?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_and_ios_4_advanced_app_development_learn_by_video_video">
 <title>iPhone and iOS 4 Advanced App Development: Learn by Video (video)</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Turrall video2brain</emphasis>
-<emphasis>ISBN: 9780132808651</emphasis>
-<emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Turrall video2brain</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132808651</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
 <simpara>This innovative product uses interactive video to show iOS developers how to integrate rich features that end-users have come to expect from apps, using the iOS Core Location and Mapping features and camera data. This video reviews the main features of XCode 4 as well as the more advanced APIs available to developers. Creating Universal Apps will let users broaden their audiences to the iPhone, iPod Touch, and iPad. Experienced instructor Robert Turall presents up to four hours of exceptional video training, complete with lesson files, assessment quizzes, and review materials. The video is wrapped in a unique interface that allows the viewer to jump to any topic and also bookmark individual sections for later review.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132808651?cid=1107-bibilio-ios-link">See it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_geolocation_in_ios">
 <title>Geolocation in iOS</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449308445</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$19.99 US</emphasis>
-<emphasis>50 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449308445</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$19.99 US</emphasis></simpara>
+<simpara><emphasis>50 pages</emphasis></simpara>
 <simpara>The iPhone and iPad allow user positioning via multiple methods, including GPS. The growing number of location-aware, and location-fenced, applications now arriving in the App Store make heavy use of these abilities. This book walks you through the basic tools you need to build geo-aware applications before diving into the available third-party geo-SDKs available for the iOS platform.</simpara>
 </sect1>
 <sect1 id="_ios_and_sensor_networks">
 <title>iOS and Sensor Networks</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449308483</emphasis>
-<emphasis>August 2011</emphasis>
-<emphasis>$19.99 US</emphasis>
-<emphasis>50 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449308483</emphasis></simpara>
+<simpara><emphasis>August 2011</emphasis></simpara>
+<simpara><emphasis>$19.99 US</emphasis></simpara>
+<simpara><emphasis>50 pages</emphasis></simpara>
 <simpara>This book looks at how to integrate iOS devices into distributed sensors network, both to make use of its own on-board sensors in such networks, but also as a hub. Beyond the discussion of basic client-server architectures, and making use of the existing wireless capabilities, this book examines how to connect iOS devices to microcontroller platforms via serial connections.</simpara>
 </sect1>
 </chapter>
@@ -517,204 +517,204 @@
 <title>Objective-C / Cocoa &amp; iOS Core</title>
 <sect1 id="_objective_c">
 <title>Objective-C</title>
-<simpara><emphasis>John Wiley &amp; Sons</emphasis>
-<emphasis>By Jiva DeVoe</emphasis>
-<emphasis>ISBN: 9780470479223</emphasis>
-<emphasis>February 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>400 pages</emphasis></simpara>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis></simpara>
+<simpara><emphasis>By Jiva DeVoe</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470479223</emphasis></simpara>
+<simpara><emphasis>February 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>400 pages</emphasis></simpara>
 <simpara>Objective-C is the language behind Cocoa and Cocoa Touch, which is the Framework of applications written for the Macintosh, iPod touch, iPhone, and iPad platforms. This book covers everything from the basics of the C language to advanced aspects of Apple development. You&#8217;ll examine Objective-C and high-level subjects of frameworks, threading, networking, and much more. Featuring real-life examples drawn from the author&#8217;s experience, this book offers an insider look at this amazing programming language.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470479223?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_programming_in_objective_c_3_e">
 <title>Programming in Objective-C, 3/e</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Stephen G. Kochan</emphasis>
-<emphasis>ISBN: 9780321711397</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>552 pages</emphasis>
-(not for sale in US or Canada)</simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Stephen G. Kochan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321711397</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>552 pages</emphasis></simpara>
+<simpara>(not for sale in US or Canada)</simpara>
 <simpara>This book is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming for the iOS and Mac platforms. The book makes no assumptions about prior experience with object-oriented programming languages or with the C language (which Objective-C is based upon). Readers can learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language &#169;. This unique approach to learning, combined with many small program examples and exercises at the end of each chapter (this book uses Xcode 4), makes this book ideally suited for either classroom use or self-study.</simpara>
 </sect1>
 <sect1 id="_programming_in_objective_c_2_0_livelessons_part_i_language_fundamentals_and_part_ii_iphone_programming_and_the_foundation_fra_video">
 <title>Programming in Objective-C 2.0 LiveLessons, Part I: Language Fundamentals and Part II: iPhone Programming and the Foundation Fra (video)</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Stephen G. Kochan</emphasis>
-<emphasis>ISBN: 9780321670113</emphasis>
-<emphasis>May 2009</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Stephen G. Kochan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321670113</emphasis></simpara>
+<simpara><emphasis>May 2009</emphasis></simpara>
 <simpara>This is the world’s first complete video training course on the basics of Objective-C, the programming language at the heart of Mac OS X and iPhone and iPad application development. Bestselling author and trainer Stephen G. Kochan provides the new programmer with a step-by-step, hands-on introduction to the Objective-C language and the fundamentals of object-oriented programming. The course does not assume any previous programming experience and includes many detailed, practical examples of how to put Objective-C to use in everyday programming tasks for the Mac OS X or iPhone and iPad platforms.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321670113?cid=1107-bibilio-ios-link">See it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_pro_objective_c_design_patterns_for_ios">
 <title>Pro Objective-C Design Patterns for iOS</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>Carlo Chung</emphasis>
-<emphasis>ISBN: 9781430233305</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>390 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>Carlo Chung</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430233305</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>390 pages</emphasis></simpara>
 <simpara>It&#8217;s time to capitalize on your mastery of Cocoa with Pro Objective-C Design Patterns for iOS. You&#8217;ve developed apps that impressed and performed, and now you&#8217;re ready to jump into development practices that will leave you with more effective, efficient, and professional level apps. This book will teach you to recognize the design patterns that have always been present at some level in your code. Implementation of specific pattern approaches will prove their value to any developer working in the iOS application arena. You&#8217;ll learn to master classic patterns like singleton, abstract factory, chain of responsibility, and observer. You&#8217;ll also discover less well-known but useful patterns like memento, composite, command, and mediator.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430233305?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_objective_c_2_0_a_hands_on_guide_to_objective_c_for_mac_and_ios_developers">
 <title>Learning Objective-C 2.0: A Hands-On Guide to Objective-C for Mac and iOS Developers</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Robert Clair</emphasis>
-<emphasis>ISBN: 9780321712110</emphasis>
-<emphasis>July 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>416 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Robert Clair</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321712110</emphasis></simpara>
+<simpara><emphasis>July 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>416 pages</emphasis></simpara>
 <simpara>If you want to learn Objective-C 2.0 to write programs for Mac OS X, iPhone, iPad, or iPod touch, you’ve come to the right place! Concise, readable, and friendly, this book is the perfect beginner’s guide to the latest version of Objective-C. Longtime Mac OS X and iPhone developer Robert Clair covers everything from the absolute basics to Objective-C 2.0’s newest innovations. This book focuses on the features, concepts, and techniques that matter most day to day. The result is an outstanding first book for everyone who wants to begin programming for iPhone, iPod touch, iPad, or Mac OS X.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321712110?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_cocoa_and_objective_c_up_and_running">
 <title>Cocoa and Objective-C: Up and Running</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Scott Stevenson</emphasis>
-<emphasis>ISBN: 9780596809812</emphasis>
-<emphasis>April 2010</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>416 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Scott Stevenson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596809812</emphasis></simpara>
+<simpara><emphasis>April 2010</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>416 pages</emphasis></simpara>
 <simpara>Learn the tools most essential for building high-quality applications for Mac OS X, iPhone, and iPod touch. This thorough introduction to Apple&#8217;s Cocoa programming environment and its Objective-C language quickly gets you up to speed with step-by-step tutorials, hands-on tasks, and numerous examples. With clear instruction from Scott Stevenson, the Cocoa programmer behind Cocoa Dev Central, you&#8217;ll learn just enough foundation and theory to ground you before jumping right into building applications, managing events, creating GUIs, and more with Cocoa and the Application Kit. You also get skill-building exercises, and key input from a Cocoa expert on the best use of these tools.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780596809812?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_for_absolute_beginners_iphone_ipad_and_mac_programming_made_easy">
 <title>Objective-C for Absolute Beginners: iPhone, iPad, and Mac Programming Made Easy</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Gary Bennett, Mitch Fisher &amp; Brad Lees</emphasis>
-<emphasis>ISBN: 9781430228325</emphasis>
-<emphasis>August 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>295 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Gary Bennett, Mitch Fisher &amp; Brad Lees</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430228325</emphasis></simpara>
+<simpara><emphasis>August 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>295 pages</emphasis></simpara>
 <simpara>This book will teach you how to write software for your Mac, iPhone, or iPad using Objective-C, an elegant and powerful language with a rich set of developer tools. Using a hands-on approach, you&#8217;ll learn to think in programming terms, how to use Objective-C to build program logic, and how to write your own applications and apps. With over 50 collective years in software development and based on an approach pioneered at Carnegie Mellon University, the authors have developed a remarkably effective approach to learning Objective-C. Since the introduction of Apple&#8217;s iPhone, the authors have taught hundreds of absolute beginners how to develop Mac, iPhone, and iPad apps, including many that became popular apps in the iTunes App Store.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430228325?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_for_dummies">
 <title>Objective-C For Dummies</title>
-<simpara><emphasis>For Dummies</emphasis>
-<emphasis>By Neal Goldstein</emphasis>
-<emphasis>ISBN: 9780470522752</emphasis>
-<emphasis>October 2009</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>456 pages</emphasis></simpara>
+<simpara><emphasis>For Dummies</emphasis></simpara>
+<simpara><emphasis>By Neal Goldstein</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470522752</emphasis></simpara>
+<simpara><emphasis>October 2009</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>456 pages</emphasis></simpara>
 <simpara>The only thing hotter than the iPhone right now is new apps for the iPhone. Objective-C is the primary language for programming iPhone and Mac OS X applications, and this book makes it easy to learn Objective-C. Even if you have no programming experience, this book will teach you what you need to know to start creating iPhone apps. It provides an understanding of object-oriented programming in an entertaining way that helps you learn.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470522752?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_phrasebook">
 <title>Objective-C Phrasebook</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By David Chisnall</emphasis>
-<emphasis>ISBN: 9780132486569</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>352 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By David Chisnall</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132486569</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>352 pages</emphasis></simpara>
 <simpara>This book is a concise, practical guide to Objective-C for iOS and Mac OS X with more than 100 useful code snippets and programming phrases. With more programmers than ever finding they need to learn at least some Objective-C in order to be able to develop iOS apps for iPhone or iPad, this is the book for you.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132486569?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_visual_quickstart_guide">
 <title>Objective-C: Visual QuickStart Guide</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Steven Holzner</emphasis>
-<emphasis>ISBN: 9780321703453</emphasis>
-<emphasis>February 2010</emphasis>
-<emphasis>$29.99</emphasis>
-<emphasis>240 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Steven Holzner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321703453</emphasis></simpara>
+<simpara><emphasis>February 2010</emphasis></simpara>
+<simpara><emphasis>$29.99</emphasis></simpara>
+<simpara><emphasis>240 pages</emphasis></simpara>
 <simpara>Objective C 2.0 is the object-oriented language that is the basis for Cocoa and Cocoa Touch, the development environment for the iPhone/iPod Touch.You&#8217;ll learn all the basics: from handling data and creating functions to managing memory and handling exceptions. For programmers who want to develop iPhone apps, it&#8217;s a must, and this title in the Visual QuickStart-style is the easy, fast way to get started.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321703453?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learn_objective_c_on_the_mac">
 <title>Learn Objective-C on the Mac</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Mark Dalrymple &amp; Scott Knaster</emphasis>
-<emphasis>ISBN: 9781430218159</emphasis>
-<emphasis>January 2008</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>350 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Mark Dalrymple &amp; Scott Knaster</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430218159</emphasis></simpara>
+<simpara><emphasis>January 2008</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>350 pages</emphasis></simpara>
 <simpara>Take your coding skills to the next level with this extensive guide to Objective-C, the native programming language for developing sophisticated software applications for Mac OS X. Whether you&#8217;re an experienced C programmer or you&#8217;re coming from a different language such as C++ or Java, leading Mac experts Mark Dalrymple and Scott Knaster show you how to harness the powers of Objective-C in your applications!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430218159?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learn_objective_c_for_java_developers">
 <title>Learn Objective-C for Java Developers</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By James Bucanek</emphasis>
-<emphasis>ISBN: 9781430223696</emphasis>
-<emphasis>September 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>520 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By James Bucanek</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430223696</emphasis></simpara>
+<simpara><emphasis>September 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>520 pages</emphasis></simpara>
 <simpara>This book will guide experienced Java developers into the world of Objective-C. It will show them how to take their existing language knowledge and design patterns and transfer that experience to Objective-C and the Cocoa runtime library. This is the express train to productivity for every Java developer who has dreamed of developing for Mac OS X or iPhone, but felt that Objective-C was too intimidating. So hop on and enjoy the ride!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430223696?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_core_data_for_ios_developing_data_driven_applications_for_the_ipad_iphone_and_ipod_touch">
 <title>Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Tim Isted &amp; Tom Harrington</emphasis>
-<emphasis>ISBN: 9780321670625</emphasis>
-<emphasis>June 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>304 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Tim Isted &amp; Tom Harrington</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321670625</emphasis></simpara>
+<simpara><emphasis>June 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>304 pages</emphasis></simpara>
 <simpara>In this book two leading iOS developers teach you the entire Core Data framework from the ground up. Writing for intermediate-to-advanced iOS developers, Tim Isted and Tom Harrington thoroughly explain how Core Data is used on iOS devices, introduce each of its primary classes, and show how they interact to provide amazing functionality with minimal configuration. You’ll learn how to store, fetch, and validate data; efficiently provide it to views; and much more. Isted and Harrington first give you a firm grounding in the technology, and then present sophisticated real-world examples. They present multiple sample projects, as well as a start-to-finish, chapter-length case study.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321670625?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_core_animation_simplified_animation_techniques_for_mac_and_iphone_development">
 <title>Core Animation: Simplified Animation Techniques for Mac® and iPhone® Development</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Marcus Zarra &amp; Matt Long</emphasis>
-<emphasis>ISBN: 9780321617835</emphasis>
-<emphasis>December 2009</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>264 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Marcus Zarra &amp; Matt Long</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321617835</emphasis></simpara>
+<simpara><emphasis>December 2009</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>264 pages</emphasis></simpara>
 <simpara>Apple’s Core Animation framework enables Mac OS X, iPhone, and iPod touch developers to create richer, more visual applications–more easily than ever and with far less code. This book is a comprehensive, example-rich, full-color reference to Core Animation for experienced OS X and iPhone developers who want to make the most of this powerful framework. Marcus Zarra and Matt Long reveal exactly what Core Animation can and can’t do, how to use it most effectively–and how to avoid misusing it. Building on your existing knowledge of Objective-C, Cocoa, and Xcode, they present expert techniques, insights, and downloadable code for all aspects of Core Animation programming, from keyframing to movie playback.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321617835?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_programming_in_objective_c">
 <title>Programming in Objective-C</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Steven G. Kochan</emphasis>
-<emphasis>ISBN: 9780672325861</emphasis>
-<emphasis>December 2003</emphasis>
-<emphasis>$31.99</emphasis>
-<emphasis>576 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Steven G. Kochan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780672325861</emphasis></simpara>
+<simpara><emphasis>December 2003</emphasis></simpara>
+<simpara><emphasis>$31.99</emphasis></simpara>
+<simpara><emphasis>576 pages</emphasis></simpara>
 <simpara>Programming in Objective-C is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming. The book makes no assumption about prior experience with object-oriented programming languages or with the C language (upon which Objective-C is based). And because of this, both novice and experienced programmers alike can use this book to quickly and effectively learn the fundamentals of Objective-C. Readers can also learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language &#169;. This approach, combined with many small program examples and exercises at the end of each chapter, makes it ideally suited for either classroom use or self-study.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780672325861?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_cocoa_programming_fundamentals_livelessons_video">
 <title>Cocoa Programming Fundamentals LiveLessons (video)</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By David Chisnall</emphasis>
-<emphasis>ISBN: 9780321701442</emphasis>
-<emphasis>July 2010</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By David Chisnall</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321701442</emphasis></simpara>
+<simpara><emphasis>July 2010</emphasis></simpara>
 <simpara>This book provides a video guided tour of the powerful and elegant Cocoa APIs and programming tools found on Mac OS X. Expert author and developer David Chisnall explains how Cocoa&#8217;s core frameworks and components work, and then demonstrates how to put them to use in designing and developing sophisticated Mac OS X applications.</simpara>
 <simpara><emphasis>http://my.safaribooksonline.com/book/programming/iphone/9780321701442?cid=1107-bibilio-ios-link{See it on Safari Books Online]</emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_fundamentals">
 <title>Objective-C Fundamentals</title>
-<simpara><emphasis>Manning</emphasis>
-<emphasis>By Christopher K. Fairbairn, Johannes Fahrenkrug &amp; Collin Ruffenach</emphasis>
-<emphasis>ISBN: 9781935182535</emphasis>
-<emphasis>November 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>355 pages</emphasis></simpara>
+<simpara><emphasis>Manning</emphasis></simpara>
+<simpara><emphasis>By Christopher K. Fairbairn, Johannes Fahrenkrug &amp; Collin Ruffenach</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781935182535</emphasis></simpara>
+<simpara><emphasis>November 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>355 pages</emphasis></simpara>
 <simpara>This book is a hands-on tutorial that leads you from your first line of Objective-C code through the process of building native apps for the iPhone using the latest version of the SDK. While the book assumes you know your way around an IDE, no previous experience with Objective-C, the iPhone SDK, or mobile computing is required. You&#8217;ll learn to avoid the most common pitfalls, while exploring the expressive Objective-C language through numerous example projects.</simpara>
 </sect1>
 <sect1 id="_cocoa_programming_developer_s_handbook">
 <title>Cocoa Programming Developer’s Handbook</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By David Chisnall</emphasis>
-<emphasis>ISBN: 9780321639639</emphasis>
-<emphasis>December 2009</emphasis>
-<emphasis>$59.99 US</emphasis>
-<emphasis>936 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By David Chisnall</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321639639</emphasis></simpara>
+<simpara><emphasis>December 2009</emphasis></simpara>
+<simpara><emphasis>$59.99 US</emphasis></simpara>
+<simpara><emphasis>936 pages</emphasis></simpara>
 <simpara>To help Mac OS X developers sort through and begin to put to practical use Cocoa’s vast array of tools and technologies, this book provides a guided tour of the Cocoa APIs found on Mac OS X, thoroughly discussing—and showing in action—Cocoa’s core frameworks and other vital components, as well as calling attention to some of the more interesting but often overlooked parts of the APIs and tools. This book provides expert insight into a wide range of key topics, from user interface design to network programming and performance tuning.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321639639?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_objective_c_pocket_reference">
 <title>Objective-C Pocket Reference</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Andrew M. Duncan</emphasis>
-<emphasis>ISBN: 9780596004231</emphasis>
-<emphasis>December 2002</emphasis>
-<emphasis>$9.95 US</emphasis>
-<emphasis>128 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Andrew M. Duncan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596004231</emphasis></simpara>
+<simpara><emphasis>December 2002</emphasis></simpara>
+<simpara><emphasis>$9.95 US</emphasis></simpara>
+<simpara><emphasis>128 pages</emphasis></simpara>
 <simpara>Objective-C is easy to learn and has a simple elegance that is a welcome breath of fresh air after the abstruse and confusing C++. To help you master the fundamentals of this language, you&#8217;ll want to keep this book close at hand. This small book contains a wealth of valuable information to speed you over the learning curve. In this pocket reference, author Andrew Duncan provides a quick and concise introduction to Objective-C for the experienced programmer. In addition to covering the essentials of Objective-C syntax, Andrew also covers important faces of the language such as memory management, the Objective-C runtime, dynamic loading, distributed objects, and exception handling. By providing important details in a succinct, well-organized format, these handy books deliver just what you need to complete the task at hand.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/0-596-00423-0?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
@@ -723,67 +723,67 @@
 <title>Mobile Web</title>
 <sect1 id="_beginning_iphone_and_ipad_web_apps_scripting_with_html5_css3_and_javascript">
 <title>Beginning iPhone and iPad Web Apps: Scripting with HTML5, CSS3, and JavaScript</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Chris Apers &amp; Daniel Paterson</emphasis>
-<emphasis>ISBN: 9781430230458</emphasis>
-<emphasis>November 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>508 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Chris Apers &amp; Daniel Paterson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430230458</emphasis></simpara>
+<simpara><emphasis>November 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>508 pages</emphasis></simpara>
 <simpara>The market for Web apps is expanding and the combination of iPhone and iPad makes this a very hot area—as well as a competitive one. You&#8217;ll want to know about all the advantages available to get ahead and stay ahead. This book takes you through every aspect of the latest Mobile Web Standards as well as the specific features of the iPhone and iPad. You&#8217;ll go beyond Web 2.0 and Ajax to learn about WebKit and Mobile Safari, HTML5 and CSS3, Vector Graphics and Multimedia support. You&#8217;ll discover what built-in hardware features of the iPhone and iPad you can use and how to take advantage of these device-specific capabilities.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430230458?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_building_iphone_apps_with_html_css_and_javascript">
 <title>Building iPhone Apps with HTML, CSS, and JavaScript</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Jonathan Stark</emphasis>
-<emphasis>ISBN: 9781449380236</emphasis>
-<emphasis>January 2010</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>192 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Jonathan Stark</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449380236</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>192 pages</emphasis></simpara>
 <simpara>It&#8217;s a fact: if you know HTML, CSS, and JavaScript, you already have the tools you need to develop your own iPhone apps. With this book, you&#8217;ll learn how to use these open source web technologies to design and build apps for both the iPhone and iPod Touch, on the platform of your choice&#8201;&#8212;&#8201;without using Objective-C, Xcode, or Interface Builder. You&#8217;ll get guidelines for quickly converting your product into a native iPhone app, using the free PhoneGap framework. And you&#8217;ll learn why releasing your product as a web app first helps you find, fix, and test bugs much faster than if you went straight to the App Store with a product built with Apple&#8217;s tools.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449380236?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_web_designer_s_guide_to_ios_apps_create_iphone_ipod_touch_and_ipad_apps_with_web_standards_html5_css3_and_javascript">
 <title>The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)</title>
 <simpara>New Riders</simpara>
-<simpara><emphasis>By Kristofer Layon</emphasis>
-<emphasis>ISBN: 9780132562829</emphasis>
-<emphasis>December 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>288 pages</emphasis></simpara>
+<simpara><emphasis>By Kristofer Layon</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132562829</emphasis></simpara>
+<simpara><emphasis>December 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>288 pages</emphasis></simpara>
 <simpara>This book teaches web designers how to use HTML, CSS, and JavaScript to build native iPhone, iPod Touch, and iPad applications.  By leveraging their existing skills, web designers can do the same specialized and content-specific work for new platforms. And by combining these skills with a code framework that allows them to bypass the need to learn a lot of Objective-C programming, web designers can focus exclusively on interface and content design. This results in better products for clients and their customers, and also saves the designer both time (by avoiding the need to learn - or subcontract for - unnecessary programming skills) and money (by avoiding the use of more expensive - but less customizable - software-based approaches to designing native apps).</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132562829?cid=1107-bibilio-ios-link">Read in on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_smartphone_web_development_building_javascript_css_html_and_ajax_based_applications_for_iphone_android_palm_pre_blackberry_windows_mobile_and_nokia_s60">
 <title>Beginning Smartphone Web Development: Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile, and Nokia S60</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Gail Frederick</emphasis>
-<emphasis>ISBN: 9781430226208</emphasis>
-<emphasis>January 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>368 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Gail Frederick</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430226208</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>368 pages</emphasis></simpara>
 <simpara>The mobile Web has become incredibly popular given the success of the iPhone and BlackBerry, the importance of Windows Mobile, and the emergence of Palm Pre (and its webOS platform). In this book, Gail Frederick of the well-known training site Learn the Mobile Web, teaches the web standards and fundamentals specific to smartphones and other feature-driven mobile phones and devices. By the end of this book, you’ll have the training, tools, and techniques for creating robust mobile web experiences on any of these platforms for your favorite smartphone or other mobile device.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430226208?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_safari_and_webkit_development_for_iphone_os_3_0">
 <title>Safari and WebKit Development for iPhone® OS 3.0</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Richard Wagner</emphasis>
-<emphasis>ISBN: 9780470549667</emphasis>
-<emphasis>November 2009</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>407 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Richard Wagner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470549667</emphasis></simpara>
+<simpara><emphasis>November 2009</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>407 pages</emphasis></simpara>
 <simpara>The iPhone offers a compelling Web-based application development platform revolving around its built-in browser, Safari, which is built upon the open source WebKit framework. This must-have book serves as a hands-on guide to developing iPhone and iPod touch Web applications. Beginning with an introduction to Web application development for iPhone, this unique book then covers invaluable information on working with mobile and touch technologies, using iPhone UI frameworks, and designing, styling, and programming the interface. You&#8217;ll discover how to move Web apps to native apps and much, much more. Completely compliant with the new iPhone OS 3.0, as well as latest enhancements to Safari on iPhone, this indispensable book is a must-have resource.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470549667?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_tap_move_shake">
 <title>Tap, Move, Shake</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Todd Moore</emphasis>
-<emphasis>ISBN: 9781449303457</emphasis>
-<emphasis>December 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>320 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Todd Moore</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449303457</emphasis></simpara>
+<simpara><emphasis>December 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>320 pages</emphasis></simpara>
 <simpara>Got a good game idea? Turn your concept into a hot game app for iPhone, iPad, or iPod touch with this do-it-yourself guide. This book helps you build multitouch games that take full advantage of iOS 4, and shows you how to prepare your app for the App Store. Create your first game with just 20 lines of code, then learn how to add graphics, sound effects, and key game algorithms. This book helps you explore practical game examples for iOS devices.</simpara>
 </sect1>
 </chapter>
@@ -791,66 +791,66 @@
 <title>Game Development</title>
 <sect1 id="_iphone_3d_programming">
 <title>iPhone 3D Programming</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Philip Rideout</emphasis>
-<emphasis>ISBN: 9781449388133</emphasis>
-<emphasis>May 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>448 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Philip Rideout</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449388133</emphasis></simpara>
+<simpara><emphasis>May 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>448 pages</emphasis></simpara>
 <simpara>Do you have a great idea for a graphics-intensive iPhone application, but don&#8217;t know how to bring it to life? This book offers the perfect solution: a crash course on the OpenGL graphics library with an overview of iPhone 3D development. Whether you&#8217;re an experienced OpenGL developer looking to build iPhone apps for the first time, or an iPhone developer wanting to learn sophisticated graphics, this book brings both of these worlds together in one concise, easy-to-use guide.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449388133?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_iphone_games_development">
 <title>Beginning iPhone Games Development</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Peter Bakhirev, PJ Cabrera, Ian Marsh, Scott Penberthy, Ben Britten Smith &amp; Eric Wing</emphasis>
-<emphasis>ISBN: 9781430225997</emphasis>
-<emphasis>August 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>727 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Peter Bakhirev, PJ Cabrera, Ian Marsh, Scott Penberthy, Ben Britten Smith &amp; Eric Wing</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430225997</emphasis></simpara>
+<simpara><emphasis>August 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>727 pages</emphasis></simpara>
 <simpara>Games make up over 25 percent of total apps and over 70 percent of the most popular iPhone apps. This book provides you with an easy-to-follow, step-by-step approach, with deep technical insights, and that familiar friendly style.With this book, you&#8217;re going to roll up your sleeves and get your hands dirty with some hardcore coding. While you may have written games before, this book will take you further, immersing you in topics such as game graphics and animation with UIKit, Quartz, Core Animation, and OpenGL ES and game audio with OpenAL, MediaPlayer Framework, AV Foundation, and AudioSession.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430225997?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_game_development">
 <title>iPhone Game Development</title>
-<simpara><emphasis>John Wiley &amp; Sons</emphasis>
-<emphasis>By Chris Craft &amp; Jamey McElveen</emphasis>
-<emphasis>ISBN: 9780470496664</emphasis>
-<emphasis>November 2009</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>512 pages</emphasis></simpara>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis></simpara>
+<simpara><emphasis>By Chris Craft &amp; Jamey McElveen</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470496664</emphasis></simpara>
+<simpara><emphasis>November 2009</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>512 pages</emphasis></simpara>
 <simpara>If you&#8217;ve always wanted to develop a cool iPhone game application and sell it for big bucks, this book is for you. It covers all technical and commercial bases, from how to sign up for the Apple Development Program, master the development tools in the iPhone SDK, publish your game to the App Store, and convince people to buy it. You&#8217;ll find full coverage of Cocoa Touch and other great features of the iPhone SDK, plus pages of real-world examples with step-by-step explanations. The book also includes loads of royalty-free code you can use for commercial development. Save weeks of development time with the expert guidance you&#8217;ll find in this book!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470496664?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_3d_game_programming_all_in_one">
 <title>iPhone 3D Game Programming All in One</title>
-<simpara><emphasis>Course Technology PTR</emphasis>
-<emphasis>By Jeremy Alessi</emphasis>
-<emphasis>ISBN: 9781435454781</emphasis>
-<emphasis>June 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>432 pages</emphasis></simpara>
+<simpara><emphasis>Course Technology PTR</emphasis></simpara>
+<simpara><emphasis>By Jeremy Alessi</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781435454781</emphasis></simpara>
+<simpara><emphasis>June 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>432 pages</emphasis></simpara>
 <simpara>This is a complete guide to iPhone and iPod Touch game development. Beginning with the basics and ending with a finished game published in the App store this book covers all the fundamentals. The combined strength of Unity and the iPhone development platform are used to full effect allowing even complete novices to create and publish an iPhone game.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781435454781?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_building_ios_games_develop_and_design">
 <title>Building iOS Games: Develop and Design</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By James Sugrue</emphasis>
-<emphasis>ISBN: 9780132790451</emphasis>
-<emphasis>September 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>429 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By James Sugrue</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132790451</emphasis></simpara>
+<simpara><emphasis>September 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>429 pages</emphasis></simpara>
 <simpara>(no description available)</simpara>
 </sect1>
 <sect1 id="_augmented_reality_in_ios">
 <title>Augmented Reality in iOS</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Alasdair Allan</emphasis>
-<emphasis>ISBN: 9781449308506</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$19.99 US</emphasis>
-<emphasis>50 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Alasdair Allan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449308506</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$19.99 US</emphasis></simpara>
+<simpara><emphasis>50 pages</emphasis></simpara>
 <simpara>Augmented Reality has become one of the killer applications for the iOS platform. This book not only walks you through building a simple location-aware AR toolkit, but delves deeper still to look at computer vision and AR. By the end you&#8217;ll be left with a set of tools and libraries that you can extend and reuse in your own projects and iPhone applications.</simpara>
 </sect1>
 </chapter>
@@ -858,45 +858,45 @@
 <title>iOS Design UI/UX</title>
 <sect1 id="_best_iphone_apps_great_gallery_of_inspiration_for_developers">
 <title>Best iPhone Apps [great gallery of inspiration for developers]</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Josh Clark</emphasis>
-<emphasis>ISBN: 9780596806170</emphasis>
-<emphasis>July 2009</emphasis>
-<emphasis>$19.99</emphasis>
-<emphasis>240 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Josh Clark</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596806170</emphasis></simpara>
+<simpara><emphasis>July 2009</emphasis></simpara>
+<simpara><emphasis>$19.99</emphasis></simpara>
+<simpara><emphasis>240 pages</emphasis></simpara>
 <simpara>With over 50,000 iPhone apps to choose from, there&#8217;s a mind-boggling number of ways to make your favorite device do just about anything you can imagine&#8201;&#8212;&#8201;and almost certainly a few things you would never think of. While it&#8217;s not hard to find apps for your iPhone or iPod Touch, it&#8217;s frustratingly difficult to find the best ones. This book guides the way, shining the light on over 200 gee-whiz apps that delight, empower, and entertain. Author Josh Clark stress-tested thousands of titles from the App Store emporium to hand-pick apps that will make the biggest difference in every aspect of your life: at work, on the town, at play, at home, and on the road. Capitalize on your time with genius productivity apps, or fritter it away with deliriously fun games. However you use your iPhone or iPod Touch, this book shows you how to unlock its full potential and make the most of your glossy gadget.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780596806170?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_tapworthy_designing_great_iphone_apps">
 <title>Tapworthy: Designing Great iPhone Apps</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Josh Clark</emphasis>
-<emphasis>ISBN: 9781449381677</emphasis>
-<emphasis>June 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>320 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Josh Clark</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449381677</emphasis></simpara>
+<simpara><emphasis>June 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>320 pages</emphasis></simpara>
 <simpara>So you&#8217;ve got an idea for an iPhone app&#8201;&#8212;&#8201;along with everyone else on the planet. Set your app apart with elegant design, efficient usability, and a healthy dollop of personality. Tapworthy takes you from concept to polished interface design with plain-spoken principles and a rich collection of visual examples for designing exceptional interfaces for the iPhone and iPod Touch.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449381677?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_designing_the_iphone_user_experience_a_user_centered_approach_to_sketching_and_prototyping_iphone_apps">
 <title>Designing the iPhone User Experience: A User-Centered Approach to Sketching and Prototyping iPhone Apps</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Suzanne Ginsburg</emphasis>
-<emphasis>ISBN: 780321699626</emphasis>
-<emphasis>August 2010</emphasis>
-<emphasis>336 pages</emphasis>
-<emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Suzanne Ginsburg</emphasis></simpara>
+<simpara><emphasis>ISBN: 780321699626</emphasis></simpara>
+<simpara><emphasis>August 2010</emphasis></simpara>
+<simpara><emphasis>336 pages</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
 <simpara>Given the fiercely competitive state of the iPhone app landscape, it has become increasingly challenging for app designers and developers to differentiate their apps. The days are long gone when it was possible to crank out an app over the weekend and refine it after receiving a few not so flattering user reviews. Users now have choices&#8201;&#8212;&#8201;lots of them. If your app is difficult to use or doesn’t meet their needs, finding another one is just a tap away.  For most apps, it boils down to one thing: the user experience. The same is true for countless other categories within the App Store; well-designed apps are more likely to attract and retain users. This book will help you tackle the user experience part of the iPhone challenge. Three key themes will be reinforced throughout the book: Know thy user, the Design Lifecycle, and Attention to Detail. Mastering these three areas will help set your app apart from the crowd. You may not have an award-winning app over night. But knowing your users, iterative design, and attention to detail are important first steps.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780321699626?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_app_savvy">
 <title>App Savvy</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Ken Yarmosh</emphasis>
-<emphasis>ISBN: 978-1-4493-8976-5</emphasis>
-<emphasis>August 2010</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>352 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Ken Yarmosh</emphasis></simpara>
+<simpara><emphasis>ISBN: 978-1-4493-8976-5</emphasis></simpara>
+<simpara><emphasis>August 2010</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>352 pages</emphasis></simpara>
 <simpara>Make your iPhone or iPad app stand out in the highly competitive App Store. Along with a technical overview, App Savvy focuses on the business, product, and marketing elements critical to pursuing, completing, and selling an app. This practical reference explains every step in the process, with guidelines for making your app unique, addressing budget items, and finding the right app developer.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781449389765?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
@@ -905,89 +905,89 @@
 <title>iOS General</title>
 <sect1 id="_ios_forensic_analysis_for_iphone_ipad_and_ipod_touch">
 <title>iOS Forensic Analysis for iPhone, iPad, and iPod touch</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Sean Morrissey</emphasis>
-<emphasis>ISBN: 9781430233428</emphasis>
-<emphasis>December 2010</emphasis>
-<emphasis>$59.99 US</emphasis>
-<emphasis>370 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Sean Morrissey</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430233428</emphasis></simpara>
+<simpara><emphasis>December 2010</emphasis></simpara>
+<simpara><emphasis>$59.99 US</emphasis></simpara>
+<simpara><emphasis>370 pages</emphasis></simpara>
 <simpara>This book provides an in-depth look at investigative processes for the iPhone, iPod Touch, and iPad devices. The methods and procedures outlined in the book can be taken into any courtroom. With iOS information never published before and data sets that are new and evolving, this book gives the examiner and investigator the knowledge to complete a full device examination that will be credible and accepted in the forensic community.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430233428?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_business_of_iphone_and_ipad_app_development_making_and_marketing_apps_that_succeed_second_edition">
 <title>The Business of iPhone and iPad App Development: Making and Marketing Apps That Succeed, Second Edition</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Wooldridge; Michael Schneider</emphasis>
-<emphasis>ISBN: 9781430233008</emphasis>
-<emphasis>March 2011</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>474 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Wooldridge; Michael Schneider</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430233008</emphasis></simpara>
+<simpara><emphasis>March 2011</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>474 pages</emphasis></simpara>
 <simpara>Achieving consumer awareness and sales longevity for your iOS app requires a lot of organization and some strategic planning. Updated and expanded for iOS 4, this bestselling book will show you how to incorporate marketing and business savvy into every aspect of the design and development process, giving your app the best possible chance of succeeding in the App Store. This book was written by experienced developers with business backgrounds, taking you step-by-step through cost effective marketing techniques that have proven successful for professional iOS app creators—perfect for independent developers on shoestring budgets. No prior business knowledge is required. This is the book you wish you had read before you launched your first app!</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9781430233008?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_hacks">
 <title>iPhone Hacks</title>
-<simpara><emphasis>O&#8217;Reilly Media: Make</emphasis>
-<emphasis>By David Jurick; Adam Stolarz; Damien Stolarz</emphasis>
-<emphasis>ISBN: 9780596801953</emphasis>
-<emphasis>April 2009</emphasis>
-<emphasis>$34.99 US</emphasis>
-<emphasis>480 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media: Make</emphasis></simpara>
+<simpara><emphasis>By David Jurick; Adam Stolarz; Damien Stolarz</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780596801953</emphasis></simpara>
+<simpara><emphasis>April 2009</emphasis></simpara>
+<simpara><emphasis>$34.99 US</emphasis></simpara>
+<simpara><emphasis>480 pages</emphasis></simpara>
 <simpara>With the help from this book you can make your iPhone do all you&#8217;d expect of a mobile smartphone&#8201;&#8212;&#8201;and more. Learn tips and techniques to unleash little-known features, find and create innovative applications for both the iPhone and iPod touch, and unshackle these devices to run everything from network utilities to video game emulators. This book explains how to set up your iPhone the way you want it, and helps you give it capabilities that will rival your desktop computer. This cunning little handbook is exactly what you need to make the most of your iPhone.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780596801953?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_data_driven_ios_apps_for_ipad_and_iphone_with_filemaker_pro_bento_by_filemaker_and_filemaker_go">
 <title>Data-Driven iOS Apps for iPad and iPhone with FileMaker Pro, Bento by FileMaker and FileMaker Go</title>
-<simpara><emphasis>Que</emphasis>
-<emphasis>By Jesse Feiler</emphasis>
-<emphasis>ISBN: 9780132652667</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>400 pages</emphasis></simpara>
+<simpara><emphasis>Que</emphasis></simpara>
+<simpara><emphasis>By Jesse Feiler</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132652667</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>400 pages</emphasis></simpara>
 <simpara>In this book, leading FileMaker expert Jesse Feiler shows power users, IT professionals, knowledge workers, and managers exactly how to integrate data from multiple FileMaker sources with iPads, iPhones, and the web. Feiler carefully explains all essential techniques, challenges, and design issues associated with delivering and utilizing data on mobile devices. Learn about using FileMaker Go apps to access FileMaker databases that are hosted on FileMaker Server or FileMaker Pro, or resident on a mobile device. You will also learn how to migrate databases, scripts, and layouts created by FileMaker Pro, and creating customized layouts and scripts along with how to adapt database user interfaces for mobile devices, as well as how to use Bento, and CWP tools to optimally display data on iOS devices.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132652667?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_ipad_2_pocket_guide">
 <title>The iPad 2 Pocket Guide</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Jeff Carlson</emphasis>
-<emphasis>ISBN: 9780132779777</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$14.99 US</emphasis>
-<emphasis>264 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Jeff Carlson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132779777</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$14.99 US</emphasis></simpara>
+<simpara><emphasis>264 pages</emphasis></simpara>
 <simpara>The iPad is a game-changing product that reinvented the way we interact with digital content and the Web. Versitile, portable, powerful, ergonomically and functionally designed, it&#8217;s the perfect companion for digital media. With Photos, music, movies, email, and hundreds of thousands of apps, the iPad helps you organize, explore, and maximize your digital world. The new iPad 2 includes a thinner/lighter design, a faster chip and superfast graphics performance, two cameras for Facetime video calling, hardware improvements, video mirroring, and much more. Inexpensive and to-the-point, this book is a complete companion to all of the features and functions of the iPad including: Facetime, HD Video, Mail, Safari, Photos and Video, App Store, iBooks, Maps, Notes, Calendar, Contacts, and more. It will help you get up-and-running with easy to understand instructions and then show you hidden gems and tips to make you a true iPad expert.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132779777?cid=1107-bibilio-ios-link">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_iphone_4_portable_genius">
 <title>iPhone 4 Portable Genius</title>
-<simpara><emphasis>John Wiley &amp; Sons</emphasis>
-<emphasis>By Paul McFedries</emphasis>
-<emphasis>ISBN: 9780470642054</emphasis>
-<emphasis>August 2010</emphasis>
-<emphasis>$25.00 US</emphasis>
-<emphasis>334 pages</emphasis></simpara>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis></simpara>
+<simpara><emphasis>By Paul McFedries</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470642054</emphasis></simpara>
+<simpara><emphasis>August 2010</emphasis></simpara>
+<simpara><emphasis>$25.00 US</emphasis></simpara>
+<simpara><emphasis>334 pages</emphasis></simpara>
 <simpara>This book is packed with the information you need to make using the iPhone even better. You&#8217;ll find great iPhone tips at your fingertips—things like the latest hot app from the App Store, novel ways to control calls, and more—and they&#8217;re all designed to make your life easier, save you time, and help you avoid hassle. Best of all, this book features full-color screenshots, so it&#8217;s easy to navigate, and it doesn&#8217;t skip any of the essentials. Get better acquainted with your iPhone 4 in a fun way—as if your friends were showing you what to do—with this book.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780470642054?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_ipad_2_project_book">
 <title>The iPad 2 Project Book</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By Michael E. Cohen, Dennis R. Cohen &amp; Lisa L. Spangenberg</emphasis>
-<emphasis>ISBN: 9780132779845</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$24.99 US</emphasis>
-<emphasis>272 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By Michael E. Cohen, Dennis R. Cohen &amp; Lisa L. Spangenberg</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132779845</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$24.99 US</emphasis></simpara>
+<simpara><emphasis>272 pages</emphasis></simpara>
 <simpara>Bridging the gap between the palm-sized iPod touch and a full-sized computer, Apple&#8217;s iPad 2 offers enough screen area and horsepower to perform the day-to-day tasks most people want to do. Packed with practical knowledge, this book will walk readers through how to manage their most common projects, from the simple (setting up a calendar event) to the complex (planning a vacation) and everything in between. Readers will learn to use the iPad 2 tools and applications by using them to create practical real-world projects and to master everyday tasks.</simpara>
 <simpara><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132779845?cid=1107-bibilio-ios-link">Read it on Safari Online Books</ulink>_</simpara>
 </sect1>
 <sect1 id="_ios_in_the_enterprise_a_hands_on_guide_to_managing_iphones_and_ipads">
 <title>iOS in the Enterprise: A hands-on guide to managing iPhones and iPads</title>
-<simpara><emphasis>Peachpit Press</emphasis>
-<emphasis>By John Welch</emphasis>
-<emphasis>ISBN: 9780132736015</emphasis>
-<emphasis>June 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>312 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit Press</emphasis></simpara>
+<simpara><emphasis>By John Welch</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132736015</emphasis></simpara>
+<simpara><emphasis>June 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>312 pages</emphasis></simpara>
 <simpara>In this book, readers will learn to how manage iOS in business settings, from small to large, using Apple&#8217;s iOS configuration and management utilities. The first half of the book provides a strong foundation of managing iOS devices, looking at the various methods of management, from the simple to the complex. The second half of the book covers advanced topics, such as server setup.</simpara>
 <simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/iphone/9780132736015?cid=1107-bibilio-ios-link#taboptions">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
