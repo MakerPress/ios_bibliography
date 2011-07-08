@@ -52,7 +52,7 @@ _480 pages_
 
 With the help from this book you can make your iPhone do all you'd expect of a mobile smartphone -- and more. Learn tips and techniques to unleash little-known features, find and create innovative applications for both the iPhone and iPod touch, and unshackle these devices to run everything from network utilities to video game emulators. This book explains how to set up your iPhone the way you want it, and helps you give it capabilities that will rival your desktop computer. This cunning little handbook is exactly what you need to make the most of your iPhone.
 
-_http://my.safaribooksonline.com/book/programming/iphone/9780596801953?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9780596801953?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Data-Driven iOS Apps for iPad and iPhone with FileMaker Pro, Bento by FileMaker and FileMaker Go
 
@@ -106,7 +106,7 @@ _334 pages_
 
 This book is packed with the information you need to make using the iPhone even better. You'll find great iPhone tips at your fingertips—things like the latest hot app from the App Store, novel ways to control calls, and more—and they're all designed to make your life easier, save you time, and help you avoid hassle. Best of all, this book features full-color screenshots, so it's easy to navigate, and it doesn't skip any of the essentials. Get better acquainted with your iPhone 4 in a fun way—as if your friends were showing you what to do—with this book.
 
-_http://my.safaribooksonline.com/book/programming/iphone/9780470642054?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9780470642054?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === The iPad 2 Project Book
 
@@ -124,7 +124,7 @@ _272 pages_
 
 Bridging the gap between the palm-sized iPod touch and a full-sized computer, Apple's iPad 2 offers enough screen area and horsepower to perform the day-to-day tasks most people want to do. Packed with practical knowledge, this book will walk readers through how to manage their most common projects, from the simple (setting up a calendar event) to the complex (planning a vacation) and everything in between. Readers will learn to use the iPad 2 tools and applications by using them to create practical real-world projects and to master everyday tasks.
 
-http://my.safaribooksonline.com/book/programming/iphone/9780132779845?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+http://my.safaribooksonline.com/book/programming/iphone/9780132779845?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === iOS in the Enterprise: A hands-on guide to managing iPhones and iPads
 _Peachpit Press_
@@ -141,4 +141,4 @@ _312 pages_
 
 In this book, readers will learn to how manage iOS in business settings, from small to large, using Apple's iOS configuration and management utilities. The first half of the book provides a strong foundation of managing iOS devices, looking at the various methods of management, from the simple to the complex. The second half of the book covers advanced topics, such as server setup.
 
-_http://my.safaribooksonline.com/book/programming/iphone/9780132736015?cid=1107-bibilio-ios-link#taboptions[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9780132736015?cid=1107-bibilio-ios-link#taboptions[Read it on Safari Books Online]_

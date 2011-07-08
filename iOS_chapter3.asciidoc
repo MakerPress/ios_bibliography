@@ -83,7 +83,7 @@ _416 pages_
 
 If you want to learn Objective-C 2.0 to write programs for Mac OS X, iPhone, iPad, or iPod touch, you’ve come to the right place! Concise, readable, and friendly, this book is the perfect beginner’s guide to the latest version of Objective-C. Longtime Mac OS X and iPhone developer Robert Clair covers everything from the absolute basics to Objective-C 2.0’s newest innovations. This book focuses on the features, concepts, and techniques that matter most day to day. The result is an outstanding first book for everyone who wants to begin programming for iPhone, iPod touch, iPad, or Mac OS X.
 
-_http://my.safaribooksonline.com/book/programming/iphone/9780321712110?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9780321712110?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Cocoa and Objective-C: Up and Running
 
@@ -101,7 +101,7 @@ _416 pages_
 
 Learn the tools most essential for building high-quality applications for Mac OS X, iPhone, and iPod touch. This thorough introduction to Apple's Cocoa programming environment and its Objective-C language quickly gets you up to speed with step-by-step tutorials, hands-on tasks, and numerous examples. With clear instruction from Scott Stevenson, the Cocoa programmer behind Cocoa Dev Central, you'll learn just enough foundation and theory to ground you before jumping right into building applications, managing events, creating GUIs, and more with Cocoa and the Application Kit. You also get skill-building exercises, and key input from a Cocoa expert on the best use of these tools. 
 
-_http://my.safaribooksonline.com/book/programming/iphone/9780596809812?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9780596809812?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Objective-C for Absolute Beginners: iPhone, iPad, and Mac Programming Made Easy
 
@@ -119,7 +119,7 @@ _295 pages_
 
 This book will teach you how to write software for your Mac, iPhone, or iPad using Objective-C, an elegant and powerful language with a rich set of developer tools. Using a hands-on approach, you'll learn to think in programming terms, how to use Objective-C to build program logic, and how to write your own applications and apps. With over 50 collective years in software development and based on an approach pioneered at Carnegie Mellon University, the authors have developed a remarkably effective approach to learning Objective-C. Since the introduction of Apple's iPhone, the authors have taught hundreds of absolute beginners how to develop Mac, iPhone, and iPad apps, including many that became popular apps in the iTunes App Store.
 
-_http://my.safaribooksonline.com/book/programming/iphone/9781430228325?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/iphone/9781430228325?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Objective-C For Dummies
 
