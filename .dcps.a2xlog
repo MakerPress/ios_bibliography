@@ -22,4 +22,4 @@ asciidoc: book.asc: line 16: reading: /work/tools/svn_hooks/checkouts/externalau
 asciidoc: book.asc: line 18: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311902current/iOS_chapter5.asciidoc
 asciidoc: book.asc: line 20: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311902current/iOS_chapter6.asciidoc
 asciidoc: book.asc: line 22: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311902current/iOS_chapter7.asciidoc
-Mon Jul 11 22:18:53 EDT 2011
+Tue Jul 12 10:52:48 EDT 2011
